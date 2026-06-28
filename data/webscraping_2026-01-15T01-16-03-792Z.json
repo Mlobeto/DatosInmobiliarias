@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "Rubén Macías",
+    "direccion": "Rubén Macías  4,6(16)Consultor inmobiliario · 198,, Las Heras 100Cerrado · Abre a las 9 a. m. del jue · 02355 43-2504",
+    "rating": "4,6 estrellas 16 reseñas",
+    "telefono": "02355 43-2504 ",
+    "sitioWeb": "No disponible",
+    "ciudad": "Buenos Aires",
+    "fechaExtraccion": "2026-01-15T01:14:16.973Z"
+  },
+  {
+    "nombre": "Rubén Macías",
+    "direccion": "Rubén Macías  4,6(16)Consultor inmobiliario · 198,, Las Heras 100Cerrado · Abre a las 9 a. m. del jue · 02355 43-2504",
+    "rating": "4,6 estrellas 16 reseñas",
+    "telefono": "02355 43-2504 ",
+    "sitioWeb": "No disponible",
+    "ciudad": "CABA",
+    "fechaExtraccion": "2026-01-15T01:14:41.182Z"
+  },
+  {
+    "nombre": "Inmobiliaria Cordoba",
+    "direccion": "Inmobiliaria Cordoba  4,5(51)Agencia inmobiliaria · Juan A. Sarachaga 748 oficina 4Cerrado · Abre a las 9 a. m. del jue · 0351 241-5056",
+    "rating": "4,5 estrellas 51 reseñas",
+    "telefono": "0351 241-5056 ",
+    "sitioWeb": "https://altacordoba.com.ar/",
+    "ciudad": "Córdoba",
+    "fechaExtraccion": "2026-01-15T01:15:05.623Z"
+  },
+  {
+    "nombre": "Uno Propiedades",
+    "direccion": "Uno Propiedades  4,2(759)Agencia inmobiliaria · Mendoza 1477Cerrado · Abre a las 9 a. m. del jue · 0341 449-8484",
+    "rating": "4,2 estrellas 759 reseñas",
+    "telefono": "0341 449-8484 ",
+    "sitioWeb": "https://www.uno-propiedades.com.ar/",
+    "ciudad": "Rosario",
+    "fechaExtraccion": "2026-01-15T01:15:32.695Z"
+  },
+  {
+    "nombre": "Inmobiliaria Perez Elustondo",
+    "direccion": "Inmobiliaria Perez Elustondo  4,8(727)Agencia inmobiliaria ·  · Emilio Civit 484 Ciudad MendozaAbierto las 24 horas · 0261 241-6414",
+    "rating": "4,8 estrellas 727 reseñas",
+    "telefono": "0261 241-6414 ",
+    "sitioWeb": "https://propiedadesperezelustondo.com/",
+    "ciudad": "Mendoza",
+    "fechaExtraccion": "2026-01-15T01:15:58.998Z"
+  }
+]
